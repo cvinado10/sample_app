@@ -13,3 +13,8 @@ This is a sample app from the Dash Documentation consisting of a dropdown menu a
       git remote -v
    c) register remote repo with the name origin
       git remote add origin https://link from github's https button.git
+   d) stage files (files to add)
+      git add all.py
+   e)add a descriptive comment to the commit
+      git commit -m
+   f) make 
