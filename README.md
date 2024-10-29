@@ -1,5 +1,5 @@
-#sample_app
-This is a sample app from the Dash Documentation consisting of a dropdown menu and visual
+sample_app
+This is a sample app from the Dash Documentation consisting of a dropdown menu and visual line plot of population over years.
 
 
 Creating a git repo
