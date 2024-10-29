@@ -17,4 +17,13 @@ This is a sample app from the Dash Documentation consisting of a dropdown menu a
       git add all.py
    e)add a descriptive comment to the commit
       git commit -m
-   f) make 
+   f) make
+
+   git log
+
+   git branch
+
+   git push origin master
+
+   git remote remove origin
+   git remote 
